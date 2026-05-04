@@ -15,10 +15,7 @@ Imagine um estacionamento de carros com vagas numeradas:
 •	Índice sempre começa em 0 (primeira posição é 0, segunda é 1, etc.)
 •	Todos os elementos são do mesmo tipo (ex: só números, só textos, etc.)
 •	Acesso direto: você vai direto na posição que quer – é muito rápido
-5. Analogia do ARMÁRIO COM GAVETAS
-Pense num armário de escritório com 10 gavetas numeradas de 0 a 9:
-•	Cada gaveta guarda um único objeto
-•	Se você quer o que está na gaveta 4, abre a gaveta de nº 4
+
 Conceito 1: Indexação começa do ZERO
 Isso pega muita gente. No mundo real, contamos 1, 2, 3... Na programação (arrays/matrizes), contamos 0, 1, 2...
 Se um array tem 5 elementos, os índices vão de 0 a 4 (não de 1 a 5)
